@@ -1,0 +1,35 @@
+css
+   bootstrap.css
+   style.css
+   media.css
+
+   media query
+        responsive
+        content manage
+
+
+
+################
+xxl-1440 -1600 -1800 - 2100
+xl-1200
+lg-1024
+
+
+md-768
+
+
+sm-576
+col-320
+
+
+
+
+
+              xxl/xl/lg     md        sm/col
+
+
+jq
+$(document).ready(function(){
+
+})
+$('selector').event(effect)
