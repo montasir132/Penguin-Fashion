@@ -1,4 +1,4 @@
-# 🍃 Penguin-Fashion 🍽️
+# 🍃 Penguin-Fashion 🍽️-
 
 ## 🖼️ Sample Preview  
 <table>
